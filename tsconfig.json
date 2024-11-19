@@ -10,5 +10,6 @@
     "bin/**/*.ts",
     "src/**/*.ts",
     "test/**/*.ts"
-  ]
+  ],
+  "moduleResolution": "node"
 }
